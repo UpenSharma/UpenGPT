@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# UpenGPT local runtime data
+data/
+chroma_db/
+uploads/
+*.sqlite
